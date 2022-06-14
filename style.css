@@ -1,0 +1,52 @@
+.navbar {
+    position: fixed;
+    top: 30px;
+
+}
+.ayrac {
+    font-size: 20px;
+    margin: 0px 20px;
+    color: black;
+}
+.nav-bg {
+    background-color: rgba(168, 165, 165, 0);
+}
+
+.ust-kisim {
+    background-image: url('ust2.jpg');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.9; 
+}
+
+.nav-item a {
+    color: aliceblue;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.nav-item a:hover{
+    color: black;
+}
+
+.jumbotron {
+    opacity: 0.9;
+}
+
+.alt-kisim {
+    background-image: url('ust3.jpg.jpg');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.yazi-kisim {
+    opacity: 0.9;
+}
